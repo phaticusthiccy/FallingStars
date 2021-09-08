@@ -5,4 +5,4 @@ Falling Stars Animation
 
 A Codepen Creation.
 
-Page => https://github.com/phaticusthiccy/FallingStars
+Page => https://phaticusthiccy.github.io/FallingStars
